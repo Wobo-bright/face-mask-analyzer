@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+twilio
+opencv-python-headless
+numpy
+Pillow
